@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 نسخه آنلاین
-👉 [ProxyFinder](https://devartery.github.io/ProxyFinder/index.html)
+👉 [ProxyFinder](https://devartery.github.io/ProxyFinder/proxy.html)
 
 ---
 
